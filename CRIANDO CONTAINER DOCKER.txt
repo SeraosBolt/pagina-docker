@@ -1,0 +1,7 @@
+CRIANDO CONTAINER DOCKER
+Criar arquivo Dockerfile dentro do projeto e configurar como sera criado o container
+
+exc. comando não esquece o ponto no final:
+
+docker build -t nomerep/nome-projeto . 
+
